@@ -4,9 +4,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from datetime import date
+
 def greetings():
     print('Welcome to PythonKC Coffee & Code.')
-    print('Today is Saturday 11 October 2014.')
+    print('Today is {}.'.format(
+        date.today().strftime('%a %B %d %Y'))
+    )
 
 if __name__ == '__main__':
     greetings()
