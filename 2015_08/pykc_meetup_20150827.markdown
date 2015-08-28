@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
 ### September PyKC Coffee & Code
 
-* [Saturday 12 August 2015 10:00 a.m.][septcc]
+* [Saturday 12 September 2015 10:00 a.m.][septcc]
 * [Sprint Accelerator][saccel]
 
 ### PythonKC Autumn 2015 Meetup
